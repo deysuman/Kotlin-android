@@ -1,5 +1,6 @@
-Kotlin-android
+#Kotlin-android
 ====
+[![Build Status](https://travis-ci.org/deysuman/Kotlin-android.svg?branch=master)](https://travis-ci.org/deysuman/Kotlin-android)
 
 This project is example of Android Application with Kotlin and Dagger2 and famous Libraries.
 
