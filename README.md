@@ -24,7 +24,6 @@ Libraries
  * LeakCanary - http://github.com/square/leakcanary
  * Stetho - http://facebook.github.io/stetho
  * Fabric - https://get.fabric.io
- * RecyclerviewBinder - https://github.com/satorufujiwara/recyclerview-binder
 
 Tips
 ----
@@ -56,17 +55,12 @@ If you would build, should use your valid Api Key and Api Secret.
 
 ToDo
 ----
-At [issues](https://github.com/satorufujiwara/kotlin-android-example/issues).
+At [issues](https://github.com/deysuman/Kotlin-android/issues).
 
 If you want to suggest better implementation or you have found some mistakes in this projects,
 
-Please tell me at [issue](https://github.com/satorufujiwara/kotlin-android-example/issues).
+Please tell me at [issue](https://github.com/deysuman/Kotlin-android/issues).
 
-Thanks
-------
-* u2020 - https://github.com/JakeWharton/u2020
-* u2020-mvp - https://github.com/LiveTyping/u2020-mvp
-* kotlin-dagger-example - https://github.com/damianpetla/kotlin-dagger-example
 
 License
 -------
