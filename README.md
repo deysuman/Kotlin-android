@@ -1,4 +1,4 @@
-kotlin-android-example
+Kotlin-android
 ====
 
 This project is example of Android Application with Kotlin and Dagger2 and famous Libraries.
